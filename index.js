@@ -77,7 +77,7 @@ class App extends React.Component{
     <div className="myText px-4">
       Because I love to learn new things, I have been able to master at least a few things.
     </div>
-    <div className="myskillmenu mx-4 p-1 pt-2 my-3 shadow-sm rounded bg-light">
+    <div className="myskillmenu mx-4 p-1 pt-2 my-3 rounded bg-light">
       {skill}
     </div>
     <div className="px-4 otherSkill">
