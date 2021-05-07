@@ -33,7 +33,7 @@ class App extends React.Component{
     </div>
   </nav>
   <div className="container text-center mt-3">
-    <img src="user.png" width="200px" height="200px" className="rounded-circle"/>
+    <img src="IMG_20210507_133207_547.jpg" width="200px" height="200px" className="rounded-circle"/>
     <div className="WhoAmI mt-4">Hai, Saya Hidayat!</div>
     <div className="type btn btn-dark pb-0 pt-0 mt-3 mb-3">
       <div className="typeInHere"></div>
